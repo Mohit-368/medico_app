@@ -30,6 +30,18 @@ A full-stack **Hospital Management Web Application** built with Django where doc
 
 ---
 
+---
+
+## Preview
+<img width="1919" height="1079" alt="Screenshot 2026-03-12 170150" src="https://github.com/user-attachments/assets/8c1a6f25-fe5c-40b7-b9d8-4943155669e5" />
+<img width="1919" height="1079" alt="Screenshot 2026-03-12 170201" src="https://github.com/user-attachments/assets/363c30e1-117b-47f8-a236-7ead14bbc64a" />
+<img width="1918" height="1079" alt="Screenshot 2026-03-12 170527" src="https://github.com/user-attachments/assets/ef7b4190-8298-4ffd-9c09-9902e6de3e8f" />
+<img width="1919" height="1079" alt="Screenshot 2026-03-12 170538" src="https://github.com/user-attachments/assets/87d87516-572f-420b-b921-3951f1ace6ea" />
+<img width="1915" height="1078" alt="Screenshot 2026-03-12 170553" src="https://github.com/user-attachments/assets/f2189cb9-eed4-4d4e-8fa7-77b742d8966f" />
+<img width="1918" height="1079" alt="Screenshot 2026-03-12 170605" src="https://github.com/user-attachments/assets/3a005a75-4230-47d1-800c-be3c6f409c5a" />
+
+---
+
 ##  Features
 
 ###  Authentication & Security
